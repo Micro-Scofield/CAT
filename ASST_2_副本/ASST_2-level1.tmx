@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>So it’s important to try to reduce the risk, cost, and effort involved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104556Z" creationid="zhutaiyu0128" creationdate="20230912T104556Z">
+        <seg>所以尝试降低所包含的风险、成本和付出是很重要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A useful way to develop this understanding is with a “skill taxonomy”—a detailed description of the capabilities needed for each occupation at a company.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T101916Z" creationid="zhutaiyu0128" creationdate="20230912T101752Z">
+        <seg>一种能够深化这种理解的方法是使用“技能分类”——详细描述公司中每个岗位所需的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A well-developed skill taxonomy can help here, by allowing organizations to think about enrollment policies in light of skill adjacencies, which can facilitate the transition from one skill set to another.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T110707Z" creationid="zhutaiyu0128" creationdate="20230912T110150Z">
+        <seg>一门完善的技能分类法会有很大的帮助，它允许组织根据技能的相近性来考虑培训注册策略，这可以促进从一个技能集到另一个技能集的转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>According to a recent BCG report, only 24% of polled companies make a clear connection between corporate strategy and reskilling efforts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T083714Z" creationid="zhutaiyu0128" creationdate="20230912T083714Z">
+        <seg>据波士顿咨询公司最近的一份报告，只有24%的受访公司将再培训工作纳入到企业战略之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amazon has demonstrated leadership in this area: It runs a variety of mentoring programs for reskilled employees, among them a buddy system, part of its Grow Our Own Talent program, that connects previous and current program participants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T114359Z" creationid="zhutaiyu0128" creationdate="20230912T114359Z">
+        <seg>Amazon在已经成为这个领域的领头羊：它为再培训的员工提供了各种各样的指导项目，其中包括一个伙伴系统，这是其“帮助我们自己的人才成长”项目的一部分，它将以前和现在的项目参与者联系起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And adults tend not to like or learn well in classroom-style situations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113359Z" creationid="zhutaiyu0128" creationdate="20230912T113359Z">
+        <seg>并且成年人往往不喜欢在教室里或学不好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At most of the organizations where we interviewed, reskilling initiatives are visibly championed by senior leaders, often CEOs and chief operating officers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T085200Z" creationid="zhutaiyu0128" creationdate="20230912T084834Z">
+        <seg>在大多数受访的组织中，再培训计划显然受到了高层领导的支持，通常是首席执行官和首席运营官。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Building skills in the flow of work.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113044Z" creationid="zhutaiyu0128" creationdate="20230912T113018Z">
+        <seg>在工作流程中发展技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But developing a skill taxonomy is only the first step.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T103811Z" creationid="zhutaiyu0128" creationdate="20230912T103811Z">
+        <seg>但是开发出一个技能分类只是第一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Employees need to be matched with new jobs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113751Z" creationid="zhutaiyu0128" creationdate="20230912T113751Z">
+        <seg>员工需要与新工作相匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Employers used to put a lot of effort into creating such taxonomies from scratch, but many leading companies now rely on external providers for the bulk of the work.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T101949Z" creationid="zhutaiyu0128" creationdate="20230912T101949Z">
+        <seg>过去，雇主们花了很多精力从零开始创建这样的分类，但现在许多领先的公司都依赖第三方来完成大部分工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For example, as part of its ongoing digital transformation, Ericsson has developed a multiyear strategy devoted to upskilling and reskilling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T090052Z" creationid="zhutaiyu0128" creationdate="20230912T090052Z">
+        <seg>比如说，爱立信制定了一项致力于提高技能和再培训的多年战略，以此作为其数字化转型的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From this perspective, reskilling is akin to a change-management initiative, because it requires a focus on many different tasks simultaneously.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T100751Z" creationid="zhutaiyu0128" creationdate="20230912T100751Z">
+        <seg>从这个角度来看，再培训类似于变更管理计划，因为它需要同时关注许多不同的任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HSBC, for example, has adopted the taxonomy published by the World Economic Forum and customized it slightly to add skills specific to parts of its business.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T102613Z" creationid="zhutaiyu0128" creationdate="20230912T102613Z">
+        <seg>例如，汇丰银行(HSBC)采用了世界经济论坛(World Economic Forum)发布的分类标准，并进行了小部分的定制化以增加用于其部分业务的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here coaching and mentoring can be particularly effective tools.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T114227Z" creationid="zhutaiyu0128" creationdate="20230912T114227Z">
+        <seg>在这里，辅导和指导是特别有效的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here they’ll need to develop a rigorous strategic workforce-planning methodology.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104852Z" creationid="zhutaiyu0128" creationdate="20230912T104852Z">
+        <seg>此处他们需要制定一套严格的战略性劳动力规划方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a 2021 BCG survey 65% of the 209,000 participating workers said they prefer to learn on the job.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T120039Z" creationid="zhutaiyu0128" creationdate="20230912T113428Z">
+        <seg>在BCG 2021年的一项调查中，20.9万名参与调查的员工中65%的人表示他们更喜欢在工作中学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In both cases this can lead to “talent hoarding,” in which managers try to hold on to their favorite reports by denying them the ability to participate in reskilling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T112214Z" creationid="zhutaiyu0128" creationdate="20230912T112214Z">
+        <seg>在这两种情况下，都可能导致“人才囤积”，管理者试图通过拒绝他们参与再培训来抓住他们最喜欢的报告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In just three years Ericsson has upskilled more than 15,000 employees in AI and automation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T091641Z" creationid="zhutaiyu0128" creationdate="20230912T091641Z">
+        <seg>在短短三年时间里，爱立信提升了超过1.5万名员工在人工智能和自动化领域的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In our research we’ve also found that if reskilling programs are to succeed, companies must develop a clear set of enrollment criteria for employees, not all of whom will have the right combination of motivation and personality traits to be a good fit for reskilling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T110840Z" creationid="zhutaiyu0128" creationdate="20230912T110423Z">
+        <seg>在研究中我们还发现，如果再培训项目要取得成功，公司必须为员工制定一套明确的培训注册标准，因为并非所有员工都具备适合再培训的动力和个性特征。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be costly and logistically challenging to take employees away from their day jobs to participate in training.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113158Z" creationid="zhutaiyu0128" creationdate="20230912T113158Z">
+        <seg>将员工从日常工作中抽出时间抽出来参加培训的成本高昂，而且对于后勤也是一个挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Leaders must also determine what skills they will need in the future—a dynamic process that’s critical for strategic reskilling programs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104712Z" creationid="zhutaiyu0128" creationdate="20230912T104712Z">
+        <seg>领导者还必须确定他们未来需要什么技能——这是一个动态的过程，对战略性再培训计划至关重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let’s consider several of the most important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T100814Z" creationid="zhutaiyu0128" creationdate="20230912T100814Z">
+        <seg>让我们来看看其中最重要的几个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Managers from different divisions may disagree about this.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104158Z" creationid="zhutaiyu0128" creationdate="20230912T103926Z">
+        <seg>不同部门的经理在这一点上可能有分歧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Matching and integrating reskilled employees.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113744Z" creationid="zhutaiyu0128" creationdate="20230912T113744Z">
+        <seg>匹配和整合技能娴熟的员工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Middle managers are often resistant to the idea of reskilling, for two main reasons: They worry (1) that their reports won’t be able to keep up with their regular responsibilities while being reskilled, and (2) that once their reports are reskilled, they’ll move to other parts of the organization.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T115839Z" creationid="zhutaiyu0128" creationdate="20230912T111343Z">
+        <seg>中层管理人员经常抵制再培训的想法，主要有两个原因：他们担心(1)他们的报告在再培训时无法与常规职责保持一致，(2)一旦他们的报告 经过了 再培训，他们就会转入组织的其他部门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next comes the difficult job of deciding which skills get mapped to which jobs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T103900Z" creationid="zhutaiyu0128" creationdate="20230912T103900Z">
+        <seg>接下来是一项艰难的工作，即决定将哪些技能对应到哪些工作上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No matter what form the resistance takes, senior leaders’ role modeling in support of reskilling is vital to overcoming it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113029Z" creationid="zhutaiyu0128" creationdate="20230912T113015Z">
+        <seg>无论阻力以何种形式出现，支持再培训的高级领导人的榜样作用对于克服阻力都是至关重要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noma Bar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113737Z" creationid="zhutaiyu0128" creationdate="20230912T113737Z">
+        <seg>诺玛餐厅酒吧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Novartis has implemented an AI-powered internal talent marketplace that predicts, matches, and offers roles and projects related to employees’ skills and goals.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T110230Z" creationid="zhutaiyu0128" creationdate="20230912T110230Z">
+        <seg>诺华公司已经实施了一个由人工智能驱动的内部人才市场，该市场可以预测、匹配并提供与员工技能和目标相关的职位和项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once in their new jobs, reskilled employees need several kinds of support to integrate successfully: help with learning new work norms and culture, building networks, and developing soft skills.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T114128Z" creationid="zhutaiyu0128" creationdate="20230912T114128Z">
+        <seg>一旦进入新工作岗位，再培训的员工需要以下几个方面的支持来成功融入：帮助学习新的工作规范和文化，建立人际关系，发展软技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our interview data shows that if destination roles are clearly described in advance, employees become more interested in reskilling because new career trajectories become apparent to them, and the reskilling itself becomes more effective because it’s more position-specific.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T120133Z" creationid="zhutaiyu0128" creationdate="20230912T113924Z">
+        <seg>我们的访谈数据显示，如果事先明确地描述了目标角色，员工就会对再培训更感兴趣，因为新的职业轨迹对他们来说很明晰，再培训本身也会因针对特定的岗位变得更有效，。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recruiting and evaluating.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T105148Z" creationid="zhutaiyu0128" creationdate="20230912T105148Z">
+        <seg>招聘和评估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reskilling Is a Change-Management Initiative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T091859Z" creationid="zhutaiyu0128" creationdate="20230912T091859Z">
+        <seg>再培训是一项变革管理计划</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reskilling Is the Responsibility of Every Leader and Manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T083424Z" creationid="zhutaiyu0128" creationdate="20230912T081411Z">
+        <seg>再培训是每个领导者和管理者的责任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reskilling investments need a profound commitment from HR leaders, of course, but unless the rest of the organization understands the strategic relevance of those investments, it’s very hard to obtain the relentless and distributed effort that such initiatives require to succeed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T085051Z" creationid="zhutaiyu0128" creationdate="20230912T084721Z">
+        <seg>当然，对于再培训的投资需要人力资源部门领导的军令状，但除非组织的其他成员也能理解这项投资与企业战略之间的关系，否则很难使这类方案落地得到持久而全面的支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reskilling programs require participants to make a major investment of time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104401Z" creationid="zhutaiyu0128" creationdate="20230912T104401Z">
+        <seg>再培训项目要求参与者投入大量的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several of the companies we spoke with have addressed this problem by making talent development an explicit managerial responsibility.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T115911Z" creationid="zhutaiyu0128" creationdate="20230912T112238Z">
+        <seg>我们采访过的几家公司 已经通过将人才发展明确为管理责任来解决这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shaping the mindset of middle managers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T110849Z" creationid="zhutaiyu0128" creationdate="20230912T110849Z">
+        <seg>塑造中层管理者的心态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Similarly, SAP, which used to maintain an in-house taxonomy of 7,000 skills, has recently started working with Lightcast, which keeps a continually updated skill database.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T115716Z" creationid="zhutaiyu0128" creationdate="20230912T103746Z">
+        <seg>类似地，SAP过去经常维护7000个内部技能分类，最近开始使用Lightcast，它保持一个不断更新的技能数据库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Such disagreement is often symptomatic of a deeper misalignment, and companies will need to resolve that before they undertake any major reskilling initiative.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104303Z" creationid="zhutaiyu0128" creationdate="20230912T103932Z">
+        <seg>这种分歧往往是更深层次失调的征兆，公司需要在开展任何重大的再培训项目之前解决这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The European insurance company Allianz has done interesting work on this front: It regularly translates forecasted business growth into talent demand, focusing on the number of people needed in various jobs and the skills they’ll require.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104956Z" creationid="zhutaiyu0128" creationdate="20230912T104956Z">
+        <seg>欧洲保险公司安联(Allianz)在这方面做了一些有趣的工作：它定期将预测的业务增长转化为人才需求，重点关注各种工作岗位所需的人数及其所需的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The company also provides career coaching for employees who are making particularly difficult transitions, such as from warehouse worker to software developer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T114415Z" creationid="zhutaiyu0128" creationdate="20230912T114415Z">
+        <seg>该公司还为那些转型特别困难的员工提供职业指导，比如从仓库工人到软件开发人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The company considers this a high-priority, high-investment project and has made it part of the objectives and key results that executives review quarterly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T091513Z" creationid="zhutaiyu0128" creationdate="20230912T091107Z">
+        <seg>该公司认为这是一个高优先级、高投资价值的项目，并将其作为目标和高管季度审查的关键指标之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The effort involves systematically defining critical skills connected to strategy, which correspond to a variety of accelerator programs, skill journeys, and skill-shifting targets—most of them dedicated to transforming telecommunications experts into AI and data-science experts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T091116Z" creationid="zhutaiyu0128" creationdate="20230912T084911Z">
+        <seg>这项工作包括系统地定义与战略相关的关键技能，对应于各种加速发展计划、技能迁移和技能转变的目标——其中大多数致力于将电信专家培养成人工智能和数据科学专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The model, which is updated as part of the annual planning process, involves economic scenario planning and takes into account the possible effects of digitalization on the workforce.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T105133Z" creationid="zhutaiyu0128" creationdate="20230912T105133Z">
+        <seg>该模型作为年度规划过程的一部分进行更新，包含到经济情景规划并考虑到数字化对劳动力的可能影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reskilling program at ICICI Bank, for example, consists of a four-month vocational residency, during which employees take part in simulation-style trainings for the managerial role they hope to get, and an eight-month deployment in the field that involves a structured internship in a bank branch and closely shadowing a current manager.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T113728Z" creationid="zhutaiyu0128" creationdate="20230912T113728Z">
+        <seg>例如，印度工业信贷投资银行(ICICI Bank)的再培训项目包括为期4个月的职业实习，在此期间，员工参加他们希望获得的管理职位的模拟培训，以及为期8个月的实地工作，其中包括在银行分行进行结构化实习，跟着现任经理学习工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They work hard to articulate for the rest of the company the connection between reskilling and strategy and to ensure that leadership and management teams understand their shared responsibility for implementing these programs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T085544Z" creationid="zhutaiyu0128" creationdate="20230912T085544Z">
+        <seg>他们努力向公司的其他人阐明再培训和战略之间的联系，并确保领导和管理团队理解他们在实施这些计划中有共同的责任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This problem can be addressed by involving managers in the design and delivery of reskilling programs and by providing sensitivity and unconscious-bias training.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T112959Z" creationid="zhutaiyu0128" creationdate="20230912T112959Z">
+        <seg>这个问题可以通过让管理者参与再技能培训项目的设计和交付，以及提供敏感性和无意识偏见培训来解决。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To create a successful reskilling program, companies need a sophisticated understanding of supply (skills available internally and externally) and demand (skills needed to beat the competition).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T101756Z" creationid="zhutaiyu0128" creationdate="20230912T101725Z">
+        <seg>为构建起一个成功的再培训计划，公司需要对供应(公司内外可用的技能)和需求(击败竞争所需的技能)有深刻的理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To design and implement ambitious reskilling programs, companies must do a lot more than just train employees: They must create an organizational context conducive to success.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T100230Z" creationid="zhutaiyu0128" creationdate="20230912T100230Z">
+        <seg>为构建和实施远大的再培训计划，公司所需要做的的不仅仅是培训员工：更要创造一个有利于成功的组织环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do that they need to ensure the right mindset and behaviors among employees and managers alike.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T100612Z" creationid="zhutaiyu0128" creationdate="20230912T100247Z">
+        <seg>要做到这一点，他们需要确保员工和管理者都有正确的心态以及做正确的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To do that well, they should focus on figuring out what skills the current strategy demands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T104800Z" creationid="zhutaiyu0128" creationdate="20230912T104800Z">
+        <seg>要做到这一点，他们应该专注于弄清楚现行的战略需要哪些技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traditionally, candidates are recruited for training opportunities or internal roles on the basis of their degrees or relevant work experience, but that obviously doesn’t work for reskilled workers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T115808Z" creationid="zhutaiyu0128" creationdate="20230912T105419Z">
+        <seg>传统意义上，应聘者是因为他们的学位或相关工作经验而获得培训机会或内部职位的，但这显然不适用于有再培训经历的员工。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traditionally, reskilling is considered part of the overall corporate-learning function.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T083418Z" creationid="zhutaiyu0128" creationdate="20230912T082359Z">
+        <seg>在传统的认知中，再培训是企业所有学习功能的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Understanding supply and demand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T100930Z" creationid="zhutaiyu0128" creationdate="20230912T100930Z">
+        <seg>理解供给和需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When that’s the case, responsibility for the design and implementation of the program is often siloed within HR, and its failure or success is measured very narrowly—in terms of the number of trainings delivered, the cost per learner, and similar training-specific metrics.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T084806Z" creationid="zhutaiyu0128" creationdate="20230912T082708Z">
+        <seg>在这种想法的加持下，人力资源部门往往能撇开培训项目的设计与实施的责任，而以非常单一的标准来衡量培训是否成功—提供的培训数量、每位学员的培训成本和特定的培训指标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wipro evaluates managers according to their teams’ participation in training offers, and Amazon promotes leaders on the basis of a performance assessment that includes the question “How have you developed your team?” Middle managers may also resist the idea of hiring reskilled employees, believing that they’re not as desirable as traditionally skilled workers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="zhutaiyu0128" changedate="20230912T115951Z" creationid="zhutaiyu0128" creationdate="20230912T112723Z">
+        <seg>Wipro根据团队参与培训的情况来评估管理者，Amazon根据 绩效评估来提拔领导者，其中包括“你是如何发展你的团队的?”中层管理人员可能也会抵制雇佣有再培训经验的员工的想法，认为他们不如传统的熟练工人。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,5 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Reskilling	再培训
+For example	比如说
+high-investment	高投资价值
+for example	例如
